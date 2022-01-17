@@ -1,5 +1,3 @@
-Sample projects
-
 # [Project 1: Portfolio Web Site](https://github.com/PrinceDuru/Express_Portfolio_Site_Authentication)
 This is a web application which documents my project portfolio explaining a few of my projects. 
 It consists of a Home page, About Me page, Projects, Services, Contact and login pages.
@@ -15,7 +13,6 @@ The contact list is stored in a backend database which is connected to the site.
 
 # [Project 2: KNN_Diabetes_Prediction](https://github.com/PrinceDuru/KNN_Diabetes_Prediction)
 This is a Machine Learning model trained to predict whether or not a patient has diabetes based some diagnostic measurements.
-* Feature engineering was done to select top 5 features on the strength of feature importance.
 * Various classification models, including Logistic Regression, Random Forest Classifier, SVM and KNN classifiers were used to train the data with minimal parameter tuning.
 * Performances of the various models were evaluated. KNN model gave the best performance with 76% accuracy and a AUC score of 83%.
 * The trained KNN model was deployed on Heroku platform using Flask as the web framework to serve the web page to allow input of test data, and for the model to display predicted result.
