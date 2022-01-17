@@ -3,7 +3,7 @@ This is a web application which documents my project portfolio explaining a few 
 It consists of a Home page, About Me page, Projects, Services, Contact and login pages.
 The login page manages authentication and access to a secure section of the site that displays my contact list.
 The contact list is stored in a backend database which is connected to the site.
-#### ![Link to Heroku hosted site...](https://portfolio-site-authentication.herokuapp.com/)
+#### [Link to Heroku hosted site...](https://portfolio-site-authentication.herokuapp.com/)
 ### Features
 - ExpressJS was used to implement EJS templating engine
 - NodeJS was used as the back-end JavaScript environment
