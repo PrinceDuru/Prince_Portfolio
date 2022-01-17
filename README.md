@@ -3,7 +3,7 @@ This is a web application which documents my project portfolio explaining a few 
 It consists of a Home page, About Me page, Projects, Services, Contact and login pages.
 The login page manages authentication and access to a secure section of the site that displays my contact list.
 The contact list is stored in a backend database which is connected to the site.
-### Link to Heroku hosted site... https://knn-diabetes-prediction.herokuapp.com/
+#### ![Link to Heroku hosted site...](https://portfolio-site-authentication.herokuapp.com/)
 ### Features
 - ExpressJS was used to implement EJS templating engine
 - NodeJS was used as the back-end JavaScript environment
@@ -18,7 +18,7 @@ This is a Machine Learning model trained to predict whether or not a patient has
 * Various classification models, including Logistic Regression, Random Forest Classifier, SVM and KNN classifiers were used to train the data with minimal parameter tuning.
 * Performances of the various models were evaluated. KNN model gave the best performance with 76% accuracy and a AUC score of 83%.
 * The trained KNN model was deployed on Heroku platform using Flask as the web framework to serve the web page to allow input of test data, and for the model to display predicted result.
-### Link to Heroku hosted site... https://knn-diabetes-prediction.herokuapp.com/
+#### [Link to Heroku hosted site...](https://knn-diabetes-prediction.herokuapp.com/)
 ### Features
 * Data analysis was done using both Tableau and Jupyter Notebook.
 * Python - Numpy, Pandas, and Sklearn - was used for the Machine Learning project.
