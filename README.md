@@ -1,4 +1,4 @@
-# [Project 1: Portfolio Web Site](https://github.com/PrinceDuru/Express_Portfolio_Site_Authentication)
+# [Project 1: Portfolio Web Site with Authentication](https://github.com/PrinceDuru/Express_Portfolio_Site_Authentication)
 This is a web application which documents my project portfolio explaining a few of my projects. 
 It consists of a Home page, About Me page, Projects, Services, Contact and login pages.
 The login page manages authentication and access to a secure section of the site that displays my contact list.
@@ -10,6 +10,7 @@ The contact list is stored in a backend database which is connected to the site.
 - Mongo DB was used for storing data and other CRUD operations
 - JavaScript was used for the front-end development
 
+![](/images/portfolio_site_demo.gif)
 
 # [Project 2: KNN_Diabetes_Prediction](https://github.com/PrinceDuru/KNN_Diabetes_Prediction)
 This is a Machine Learning model trained to predict whether or not a patient has diabetes based some diagnostic measurements.
@@ -22,6 +23,8 @@ This is a Machine Learning model trained to predict whether or not a patient has
 * Flask, a Python web framework was used to serve the web page.
 * HTML, CSS, Jinja2 template were also used for the web page
 
+![](/images/diabetes_prediction_Demo.gif)
+
 
 # [Project 3: Java CRUD Console Application](https://github.com/PrinceDuru/JavaCRUDApp)
 This is a console GUI Java application that allows games players to submit information about themselves and the games they are playing online. 
@@ -31,3 +34,5 @@ The submitted information is stored in a simple Oracle database. Users are able 
 - Built in Java
 - JavaFx library used for GUI
 - Oracle Database used for storing data and other CRUD operations
+
+![](/images/Java_app_Demo.gif)
